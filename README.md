@@ -10,7 +10,6 @@ General Guide for New Git Users
 6. [Branching](#branching)
 7. [Merging](#merging)
 8. [Committing](#committing)
-9. [Pull Requests](#pull-requests)
 
 # Why use Git?
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*QoR3rxWIbnf5wmF_IuAHqQ.png)
@@ -62,28 +61,35 @@ have to be a programmer, it can be used for any types of files!
 ### [What is GitHub, and What Is It Used For?](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
 
 # Installing Git
+## Mac OSX / Unix / Linux
 
 
-# Git Bash
+## Git Bash
 [Git BASH](https://gitforwindows.org/) is a BASH emulator that allows Windows users to run Git via the command line. The syntax is exactly like regular Git. To install it, download the file from [here](https://gitforwindows.org/), then click on the installer and follow the instructions. 
 
 To start using git commands in Git BASH, you first have to be in your project folder. To navigate there using Git BASH, you can use the “cd <path>” command, which allows you to move around various directories. For example, if my project is located at `C:/Users/BobJones/GitHub/ProjectName`, to access ProjectName I would type `cd C/Users/BobJones/GitHub/ProjectName`.
+      
+# Installing GitHub
 
 # Repository
 ## What is a repository?
+![alt text](https://kevintshoemaker.github.io/StatsChats/GIT1.png)
+
 A repository is a space to store and access project files as well as different versions of the project. In general, only people who have been given access (collaborators) can edit, add, remove, and otherwise change the project files. 
 
 There are 2 types of repositories: local and remote. A local repository is the copy of the repository that exists on your machine, whereas the remote repository is the one that exists on GitHub. Changing files in your local repository will not affect the remote repository until you commit your changes, meaning you upload your changes to GitHub. 
 
-# Creating a Local Repository
+### Creating a Local Repository
 Move into your GitHub folder using the `cd <path>` command. Then, use the `git init` command to create a local repository in your machine. 
 
-# Cloning a Remote Repository
+### Cloning a Remote Repository
 There are 2 main ways to clone a remote repository into your machine.
 You can download the ZIP file and unzip it into your GitHub folder. 
 Go to your GitHub folder and type `git clone <insert-url-here>`
 
 # Branching
+![alt text](https://cdn-images-1.medium.com/max/1200/1*br5JNMOLPTG36gMzBELQ-g.png)
+
 A branch is a separate version of the code. Using separate branches allows you to fiddle with the code without having to change things in the master branch. Using separate branches is especially helpful if you are (1) afraid of breaking something in master, or (2) working on a team. Each team member can work on their own version of the code without worrying about impeding on others’ work. 
 
 ## Master Branch
