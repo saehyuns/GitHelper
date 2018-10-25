@@ -89,6 +89,11 @@ There are 2 main ways to clone a remote repository into your machine.
 You can download the ZIP file and unzip it into your GitHub folder. 
 Go to your GitHub folder and type `git clone <insert-url-here>`
 
+## Forking
+![alt text](http://jlord.us/git-it/assets/imgs/clone.png)
+A fork is a copy of a repository, therefore to fork is to create another, separate copy of the target repository. Any changes made in the fork will not affect the original project. To do this, in the upper right hand corner of the project page, click fork.
+![alt text](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
+
 # Branching
 ![alt text](https://cdn-images-1.medium.com/max/1200/1*br5JNMOLPTG36gMzBELQ-g.png)
 
