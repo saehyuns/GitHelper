@@ -1,2 +1,3 @@
-# Git Activitas - Hello World
+# Git Activitas 1
+# Git Activitas 2
 
