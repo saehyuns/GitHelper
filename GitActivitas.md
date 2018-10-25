@@ -10,6 +10,10 @@ Go to the [GitHelper Repository](https://github.com/saehyuns/GitHelper) and fork
 
 ## Clone GitHelper to Local
 
+![alt text](image/cloneExample.png)
+
+Go to the forked repository and clone it to your local computer!
+
 # Git Activitas 1
 
 ## Create a HelloWorld Text File
