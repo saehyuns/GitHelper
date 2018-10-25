@@ -71,7 +71,7 @@ have to be a programmer, it can be used for any types of files!
 To start using git commands in Git BASH, you first have to be in your project folder. To navigate there using Git BASH, you can use the “cd <path>” command, which allows you to move around various directories. For example, if my project is located at `C:/Users/BobJones/GitHub/ProjectName`, to access ProjectName I would type `cd C/Users/BobJones/GitHub/ProjectName`.
       
 ## GitHub
-[GitHub website](www.github.com]
+[GitHub website](www.github.com)
       
 # Repository
 ## What is a repository?
