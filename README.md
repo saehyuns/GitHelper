@@ -62,15 +62,16 @@ have to be a programmer, it can be used for any types of files!
 
 # Installing Git
 ## Mac OSX / Unix / Linux
-
+[Git Installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Git Bash
 [Git BASH](https://gitforwindows.org/) is a BASH emulator that allows Windows users to run Git via the command line. The syntax is exactly like regular Git. To install it, download the file from [here](https://gitforwindows.org/), then click on the installer and follow the instructions. 
 
 To start using git commands in Git BASH, you first have to be in your project folder. To navigate there using Git BASH, you can use the “cd <path>” command, which allows you to move around various directories. For example, if my project is located at `C:/Users/BobJones/GitHub/ProjectName`, to access ProjectName I would type `cd C/Users/BobJones/GitHub/ProjectName`.
       
-# Installing GitHub
-
+## GitHub
+[GitHub website](www.github.com]
+      
 # Repository
 ## What is a repository?
 ![alt text](https://kevintshoemaker.github.io/StatsChats/GIT1.png)
