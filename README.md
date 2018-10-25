@@ -2,14 +2,14 @@
 General Guide for New Git Users
 
 ### Table of Contents
-1. [What is this file?]
-2. [Why use Git?]
-3. [Installing Git]
-4. [Git Bash (Windows Users)]
-5. [Creating a Local Repository]
-6. [Cloning a Remote Repository]
-7. [Branching]
-8. [Merging]
+1. [What is this file?](#what-is-this-file)
+2. [Why use Git?](#why-use-git)
+3. [Installing Git](#installing-git)
+4. [Git Bash](#git-bash)
+5. [Creating a Local Repository](#creating-a-local-repository)
+6. [Cloning a Remote Repository](#cloning-a-remote-repository)
+7. [Branching](#branching)
+8. [Merging](#merging)
 
 # What is this file?
 
@@ -17,6 +17,7 @@ General Guide for New Git Users
 
 # Installing Git
 
+# Git Bash
 
 # Repository
 ## Local
