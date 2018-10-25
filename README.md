@@ -62,6 +62,7 @@ have to be a programmer, it can be used for any types of files!
 
 # Installing Git
 ## Mac OSX / Unix / Linux
+
 [Git Installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Git Bash
